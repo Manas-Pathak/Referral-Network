@@ -12,7 +12,7 @@ This coding challenge implements the core logic for a referral network, progress
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Manas-Pathak/Referral-Network.git
 cd referral-network
 
 # Create and activate virtual environment
